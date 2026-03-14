@@ -1,0 +1,22 @@
+ToDo
+- andere kleur enemies --> sterker, verschillende soorten.
+- knop om te bepalen of towers op first, last of closest schieten
+- andere tower: freeze --> vertraagt enemies
+-
+
+Levels
+- per level x aantal waves
+- einde van elk level een boss
+- 
+
+Maps
+- na x aantal levels een nieuwe map
+- 
+
+Eventueel
+- login systeem?
+-
+
+Extra
+- klikken doet ook damage?
+- Idle implementatie?
