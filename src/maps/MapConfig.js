@@ -6,7 +6,7 @@
 export const MAP_CONFIGS = [
   {
     id: 'forest',
-    name: 'Bos',
+    name: 'Forest',
     backgroundColor: '#1a3d1a',
     pathColor: '#5c3d1e',
     pathPoints: [
@@ -34,7 +34,7 @@ export const MAP_CONFIGS = [
   },
   {
     id: 'desert',
-    name: 'Woestijn',
+    name: 'Desert',
     backgroundColor: '#c2a05a',
     pathColor: '#8b5e1a',
     pathPoints: [
@@ -66,7 +66,7 @@ export const MAP_CONFIGS = [
   },
   {
     id: 'volcano',
-    name: 'Vulkaan',
+    name: 'Volcano',
     backgroundColor: '#1a0a00',
     pathColor: '#cc3300',
     pathPoints: [
